@@ -1,0 +1,38 @@
+html, header, body {
+    background-color: #f4e2be;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+  
+}
+
+header {
+    color: black;    
+}
+
+hr {
+    background: black;
+    height: 4px;
+}
+
+i.cal {
+    position: relative;
+    top: 4px;
+}
+
+i.disk {
+    position: relative;
+    top: 4px;  
+}
+
+span.input-group-text {
+    background-color: white;
+}
+
+.btn{
+    border-left: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #06AED5;
+    color: white;
+}
