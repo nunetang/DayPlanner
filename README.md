@@ -1,6 +1,6 @@
 # DayPlanner
 
-<img src="./img.PNG>
+<img src="img.PNG">
 
 ## Description
 This goal of this assignment was to create a basic browser-based calendar application an employee who works standard business hours to easily plan their activities for the current workday. It has the following capabilities:
