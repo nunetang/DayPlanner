@@ -3,7 +3,7 @@
 <img src="img.PNG">
 
 ## Description
-This goal of this assignment was to create a basic browser-based calendar application an employee who works standard business hours to easily plan their activities for the current workday. It has the following capabilities:
+The goal of this assignment was to create a basic browser-based calendar application an employee who works standard business hours to easily plan their activities for the current workday. It has the following capabilities:
 
 * Spans standard business hours (9a to 5p)
 * Time is broken into hour-long blocks
